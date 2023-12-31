@@ -4,7 +4,7 @@
 ## About the problem
 - *Problem Number* : 1897
 - *Problem Name* : [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/ "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/")
-- *Problem difficulty* : Easy (88.75%)🟢
+- *Problem difficulty* : Easy (59.04%%)🟢
 - *Programming language used* - Java
 
 ## Problem
